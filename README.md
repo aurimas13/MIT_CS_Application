@@ -20,7 +20,7 @@ Dive into my [Personal Journey](https://github.com/aurimas13/MIT_CS_Application/
 - 🎥 Coming Soon: Watch the video version of my story for a more immersive experience.
 
 ## 🧬 Research Proposal
-Explore my [Research Proposal for MIT](https://github.com/aurimas13/MIT_CS_Application/blob/main/Research_Proposal_MIT.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
+Explore my [Research Proposal for MIT](https://github.com/aurimas13/MIT_CS_Application/blob/main/Research_Proposal_MIT_CS.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
 
 ## 🖥️ A Problem A Day
 As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I solve computational problem a day and have solved over 500 problems to date. Still counting. 
