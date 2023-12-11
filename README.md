@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/MIT_CS_Application/blob/main/Public/MIT_CS_4.png"/>
+  <img height="222px" src="https://github.com/aurimas13/MIT_CS_Application/blob/main/Public/MIT_CS_1.png"/>
 </p>
 <h1 align="center"> Welcome to my MIT CS Journey 🚀 </h1>
 <p align="center"> Hello and welcome to my MIT CS Application story. </p>
@@ -80,5 +80,3 @@ This section contains my solutions to various programming exercises and problems
 This group includes my personal profile that showcase a range of interests and skills outside the specific categories mentioned above.
 
 - [Aurimas/Alex's Profile](https://github.com/aurimas13/aurimas13)   
-
-
