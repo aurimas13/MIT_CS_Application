@@ -17,7 +17,7 @@
 
 Dive into my [Personal Journey](https://github.com/aurimas13/MIT_CS_Application/blob/main/Personal_Story_MIT.pdf), where I narrate my aspirations, challenges, and triumphs that have shaped my academic and professional path. From a childhood dream of coming to the United States 🇺🇸 to overcoming significant adversities, my story is one of resilience and determination.
 
-- 🎥 Coming Soon: Watch the video version of my story for a more immersive experience.
+- 🎥 Watch the video version of my story for a more immersive experience as found [here]https://github.com/aurimas13/MIT_CS_Application/blob/main/Video) under name of **MIT_CS_video.mov**.
 
 ## 🧬 Research Proposal
 Explore my [Research Proposal for MIT](https://github.com/aurimas13/MIT_CS_Application/blob/main/Research_Proposal_MIT_CS.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
