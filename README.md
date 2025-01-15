@@ -2,7 +2,7 @@
   <img height="222px" src="https://github.com/aurimas13/MIT_CS_Application/blob/main/Public/MIT_CS_1.png"/>
 </p>
 <h1 align="center"> Welcome to my MIT CS Journey 🚀 </h1>
-<p align="center"> Hello and welcome to my MIT CS Application story. </p>
+<p align="center"> Hello and welcome to my Previous Year MIT CS Application story. </p>
 <p align="center"> Featuring a <b> Personal Story </b> to videos of challenges on <b> LeetCode </b> & a Research Proposal. Be a part of this journey. </p>
 <br>
 <p align=center>
@@ -11,7 +11,7 @@
   <!-- <a href="https://img.shields.io/github/forks/aurimas13/MIT_CS_Application"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/MIT_CS_Application?style=social"/> -->
   <a href="https://twitter.com/aanausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aanausedas?style=social"/></a>
 
-**Hello and welcome!** I share my journey towards applying to Massachusetts Institute of Technology. This repository is a unique blend of my personal story, my ambitious research proposal for MIT, and a showcase of my problem-solving skills through coding challenges.
+**Hello and welcome!** I share my journey toward applying to the Massachusetts Institute of Technology. This repository is a unique blend of my personal story, my ambitious research proposal for MIT, and a showcase of my problem-solving skills through coding challenges.
 
 ## 📘 Personal Story
 
@@ -77,6 +77,6 @@ This section contains my solutions to various programming exercises and problems
 - [Solutions To Problems](https://github.com/aurimas13/Solutions-To-Problems)  
 
 ### 🌐 Personal and Miscellaneous
-This group includes my personal profile that showcase a range of interests and skills outside the specific categories mentioned above.
+This group includes my personal profile that showcases a range of interests and skills outside the specific categories mentioned above.
 
 - [Aurimas/Alex's Profile](https://github.com/aurimas13/aurimas13)   
