@@ -2,7 +2,7 @@
   <img height="222px" src="https://github.com/aurimas13/MIT_CS_Application/blob/main/Public/MIT_CS_1.png"/>
 </p>
 <h1 align="center"> Welcome to my MIT CS Journey 🚀 </h1>
-<p align="center"> Hello and welcome to my Previous Year MIT CS Application story. </p>
+<p align="center"> Hello and welcome to my Previous Year MIT CS Application Story. </p>
 <p align="center"> Featuring a <b> Personal Story </b> to videos of challenges on <b> LeetCode </b> & a Research Proposal. Be a part of this journey. </p>
 <br>
 <p align=center>
