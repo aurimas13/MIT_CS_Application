@@ -20,10 +20,10 @@ Dive into my [Personal Journey](https://github.com/aurimas13/MIT_CS_Application/
 - 🎥 Watch the video version of my story for a more immersive experience as found [here]https://github.com/aurimas13/MIT_CS_Application/blob/main/Video) under name of **MIT_CS_video.mov**.
 
 ## 🧬 Research Proposal
-Explore my [Research Proposal for MIT](https://github.com/aurimas13/MIT_CS_Application/blob/main/Research_Proposal_MIT_CS.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
+Explore my [Research Proposal for MIT](https://github.com/aurimas13/MIT_CS_Application/blob/main/Research_Proposal_MIT_CS.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health." This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
 
 ## 🖥️ A Problem A Day
-As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I solve computational problem a day and have solved over 500 problems to date. Still counting. 
+As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I solve computational problem a day and have solved over 500 issues to date. Still counting. 
 
 - 🎥 First video solutions of hard and easy diffulty problems showing how I handled it, demonstrating my approach to problem-solving can be accesed through [here](https://github.com/aurimas13/Harvard_Application/tree/main/Video/1_Solution_Hard.mp4) and [here](https://github.com/aurimas13/Harvard_Application/blob/main/Video/2_Solution_Easy.mp4) or watched through website [here](https://www.loom.com/share/b8d29d93edbc4d8e8ed12dc4a328f0f8?sid=34ae80d3-46e1-4b6b-9045-0781bfa6ba9a) and [here](https://www.loom.com/share/4fb7f19dc1d346b69312563ddcfefe3f?sid=c8ee5b4d-3363-4cd2-92d1-4646d00dcef5) while their actual solutions and the problem descriptions can be accesed through [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Arithmetic%20Slices%20II%20-%20Subsequence) and [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Leaf-Similar%20Trees).
 
@@ -55,7 +55,7 @@ Here, you'll find projects that delve into data science, machine learning, artif
 - [Coursera Courses Analysis](https://github.com/aurimas13/Coursera-courses-analysis)  
 
 ### 🧪 Science and Research
-This category includes projects that are more research-oriented, often involving scientific analysis, chemical studies, and exploratory data analysis in various scientific domains.
+This category includes more research-oriented projects, often involving scientific analysis, chemical studies, and exploratory data analysis in various scientific domains.
 
 - [Smiles Analysis](https://github.com/aurimas13/Smiles-analysis)  
 - [Chemical Analysis](https://github.com/aurimas13/Chemical-analysis)  
@@ -77,6 +77,6 @@ This section contains my solutions to various programming exercises and problems
 - [Solutions To Problems](https://github.com/aurimas13/Solutions-To-Problems)  
 
 ### 🌐 Personal and Miscellaneous
-This group includes my personal profile that showcases a range of interests and skills outside the specific categories mentioned above.
+This group includes my profile and showcases a range of interests and skills outside the categories mentioned above.
 
 - [Aurimas/Alex's Profile](https://github.com/aurimas13/aurimas13)   
